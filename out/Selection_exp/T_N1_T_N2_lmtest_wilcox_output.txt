@@ -1,0 +1,27 @@
+Likelihood ratio test
+
+Model 1: PedMeters_ALL_log ~ Treatment2 + BW_3_4w_log + (1 | Batch)
+Model 2: PedMeters_ALL_log ~ BW_3_4w_log + (1 | Batch)
+  #Df  LogLik Df  Chisq Pr(>Chisq)
+1   5 -85.116                     
+2   4 -85.549 -1 0.8673     0.3517
+[1] "PedMeters_full_model_AIC = 180.231266419513"
+[1] "PedMeters_partial_model_AIC = 179.098616148249"
+[1] "PedMeters_full_model_AICc = 181.322175510423"
+[1] "PedMeters_partial_model_AICc = 179.812901862534"
+[1] "Wilcoxon rank sum test (raw)"
+
+	Wilcoxon rank sum exact test
+
+data:  PedMeters_ALL by Treatment2
+W = 484, p-value = 0.7911
+alternative hypothesis: true location shift is not equal to 0
+
+[1] "Wilcoxon rank sum test (Residuals)"
+
+	Wilcoxon rank sum exact test
+
+data:  PedMeters_partial_model_resid by Treatment2
+W = 530, p-value = 0.3547
+alternative hypothesis: true location shift is not equal to 0
+

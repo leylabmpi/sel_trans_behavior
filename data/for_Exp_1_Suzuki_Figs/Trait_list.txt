@@ -1,0 +1,17 @@
+Trait	Donor	Recipient	Donor_P	Donor_P_group	Recipient_P	Recipient_P_group	Donor_text	Recipient
+Body weight (g)	15.3	3.5	0.00285	P<0.01	0.0822	P<0.1	15.3	3.5
+Fat mass (g)	53.7	5.1	0.0001	P<0.001	0.49647	P>0.1	53.7	5.1
+Lean mass (g)	7.7	1.9	0.0356	P<0.05	0.53203	P>0.1	7.7	1.9
+Water mass (g)	8.4	2.5	0.02698	P<0.05	0.37881	P>0.1	8.4	2.5
+Body length (mm)	4	1.2	0.05968	P<0.1	0.15683	P>0.1	4	1.2
+Tail length (mm)	-6.7	2.7	0.00083	P<0.001	0.00119	P<0.01	-6.7	2.7
+Ear length (mm)	-6.8	1.2	0.00012	P<0.001	0.23095	P>0.1	-6.8	1.2
+Hind foot length (mm)	4.5	1	0.00052	P<0.001	0.04505	P<0.05	4.5	1
+Small intestine (mm)	22.6	2.5	0.00055	P<0.001	0.52781	P>0.1	22.6	2.5
+Cecum (mm)	31.1	3.5	0.0014	P<0.01	0.86762	P>0.1	31.1	3.5
+Large intestine (mm)	9.6	-0.1	0.02756	P<0.05	0.83028	P>0.1	9.6	-0.1
+Energy expenditure (kcal/hr/g)	25.3	4.4	0.000118	P<0.001	0.069957	P<0.1	25.3	4.4
+Food intake (g/g)	41.8	4.2	0.104	P>0.1	0.68928	P>0.1	41.8	4.2
+Water intake (g/g)	84.6	15.5	0.00812	P<0.01	0.09189	P<0.1	84.6	15.5
+Distance traveled (m)	269	14.5	0.00001	P<0.0001	0.03132	P<0.05	269	14.5
+All activity (m)	226.1	12.9	0.00001	P<0.0001	0.02967	P<0.05	226.1	12.9

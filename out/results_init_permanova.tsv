@@ -1,0 +1,7 @@
+Factor	R2	p
+Replicate	0.0669	0.0001
+Round of transfer	0.0503	0.0001
+Body mass at weaning	0.0208	0.0001
+Treatment	0.0081	0.0005
+Selection (Round of transfer:Treatment)	0.0071	0.0025
+Distance traveled	0.007	0.0042

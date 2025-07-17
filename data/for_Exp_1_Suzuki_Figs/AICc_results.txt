@@ -1,0 +1,9 @@
+Comparison	Control	AICc_control	Selection	AICc_selection
+N1 vs N2	AICc_full_Control	169.7	AICc_full_Selection	181.3
+N1 vs N3	AICc_full_Control	177.6	AICc_full_Selection	184.2
+N1 vs N4	AICc_full_Control	177.8	AICc_full_Selection	176
+N1 vs N5	AICc_full_Control	165.7	AICc_full_Selection	171.1
+N1 vs N2	AICc_partial_Control	167.8	AICc_partial_Selection	179.8
+N1 vs N3	AICc_partial_Control	176.4	AICc_partial_Selection	182.1
+N1 vs N4	AICc_partial_Control	177.3	AICc_partial_Selection	176.8
+N1 vs N5	AICc_partial_Control	165.8	AICc_partial_Selection	175.5
